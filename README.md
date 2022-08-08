@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-projeyi çalýþtýrmak için vs code üzerinde açýp main dart a gelerek çalýþtýrýlmasý gerekiyor.Çalýþma yeri olarak da web seçilmeli
+//to run the code, you must select chrome web and run it as debug by going to the main file
 
 //This project is a starting point for a Flutter application.
 
